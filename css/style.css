@@ -1,0 +1,19 @@
+
+.header, .hero, .body, .bar, .footer{
+	background-color: teal;
+	padding: 10px 0;
+	margin: 10px;
+}
+
+
+.box{
+	margin-bottom: 4px;
+	min-height: 70px;
+	background-color: red;
+	border: 10px solid black;
+	font-size: 40px;
+	color: white;
+}
+.green{
+	background-color: green;
+}
